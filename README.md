@@ -1,4 +1,4 @@
-# Hi, I'm Afsheen â€” BrightNode AI
+ BrightNode AI
 
 **Data Science Â· Machine Learning Â· Computer Vision Â· Business Intelligence**
 
@@ -7,11 +7,11 @@
 
 ---
 
-## What I Do
+## What WE Do
 
-I run **BrightNode** â€” a data science and AI practice based in Pakistan, working with businesses that need more than a single script. From raw CSV files to deployed ML models, I cover the full pipeline.
+We run **BrightNode** ” a data science and AI practice, working with businesses that need more than a single script. From raw CSV files to deployed ML models, We cover the full pipeline.
 
-| Domain | What I Build |
+| Domain | What We Build |
 |---|---|
 | Data Analysis | EDA, cleaning, transformation, reporting |
 | Visualisation | Matplotlib, Seaborn, Plotly, Power BI dashboards |
