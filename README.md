@@ -1,6 +1,6 @@
  BrightNode AI
 
-**Data Science Â· Machine Learning Â· Computer Vision Â· Business Intelligence**
+**Data Science· Machine Learning· Computer Vision· Business Intelligence**
 
 > Building production-ready Python solutions for data-driven businesses.
 > Fast delivery. Clean code. Real results.
