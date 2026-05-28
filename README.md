@@ -1,4 +1,4 @@
-# BrightNode AI ðŸ‘‹
+# BrightNode AI ‹
 
 **Data Science Â· Machine Learning Â· Computer Vision Â· Business Intelligence**
 
